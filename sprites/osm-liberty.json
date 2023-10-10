@@ -741,14 +741,14 @@
     "x": 231,
     "y": 85
   },
-  "grocery_11": {
+  "supermarket_11": {
     "height": 17,
     "pixelRatio": 1,
     "width": 17,
     "x": 421,
     "y": 190
   },
-  "grocery_15": {
+  "supermarket_15": {
     "height": 21,
     "pixelRatio": 1,
     "width": 21,
@@ -1322,14 +1322,14 @@
     "x": 84,
     "y": 148
   },
-  "shop_11": {
+  "convenience_11": {
     "height": 17,
     "pixelRatio": 1,
     "width": 17,
     "x": 405,
     "y": 85
   },
-  "shop_15": {
+  "convenience_15": {
     "height": 21,
     "pixelRatio": 1,
     "width": 21,
@@ -1685,5 +1685,47 @@
     "width": 21,
     "x": 231,
     "y": 169
-  }
+  },
+  "trunk_1": {
+    "height": 12,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 106,
+    "y": 23
+  },
+  "trunk_2": {
+    "height": 12,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 127,
+    "y": 23
+  },
+  "trunk_3": {
+    "height": 12,
+    "pixelRatio": 1,
+    "width": 25,
+    "x": 148,
+    "y": 23
+  },
+  "primary_1": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 107,
+    "y": 39
+  },
+  "primary_2": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 127,
+    "y": 39
+  },
+  "primary_3": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 25,
+    "x": 148,
+    "y": 39
+  },
 }

@@ -11,17 +11,8 @@
     "description": "Tile config based on OpenMapTiles schema",
     "minzoom": 0,
     "maxzoom": 14,
-    "bounds": [
-        120,
-        19,
-        160,
-        50
-    ],
-    "center": [
-        140,
-        34.5,
-        7
-    ],
+    "center": [139.734000, 35.666000, 14],
+    "bounds": [139.614258, 35.603719, 139.855957, 35.728677],
     "vector_layers": [
         {
             "id": "place",
@@ -80,6 +71,7 @@
                 "access": "String",
                 "brunnel": "String",
                 "class": "String",
+                "name:latin": "String",
                 "oneway": "Number",
                 "ramp": "Number",
                 "service": "String",

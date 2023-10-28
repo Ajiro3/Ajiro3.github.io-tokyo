@@ -1,6 +1,6 @@
 {
     "tiles": [
-        "https://ajiro3.github.io/Ajiro3.github.io-tokyo/tokyo/{z}/{x}/{y}"
+        "http://localhost/tokyo/{z}/{x}/{y}"
     ],
     "name": "JRD Vector",
     "format": "pbf",

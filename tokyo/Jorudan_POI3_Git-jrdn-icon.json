@@ -14,7 +14,7 @@
       "attribution": "<a href=\"https://openmaptiles.org/\" target=\"_blank\">&copy; OpenMapTiles</a> <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">&copy; OpenStreetMap contributors</a>"
     }
   },
-  "sprite": "https://ajiro3.github.io/Ajiro3.github.io-tokyo/sprites/osm-liberty2",
+  "sprite": "https://ajiro3.github.io/Ajiro3.github.io-tokyo/sprites/jorudan6",
   "glyphs": "https://tiledev.jcld.jp/jsmapstyles/fonts/{fontstack}/{range}.pbf",
   "layers": [
     {

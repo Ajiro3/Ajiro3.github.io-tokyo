@@ -685,6 +685,20 @@
     "x": 57,
     "y": 210
   },
+  "ferry_terminal_11": {
+    "height": 15,
+    "pixelRatio": 1,
+    "width": 15,
+    "x": 464,
+    "y": 127
+  },
+  "ferry_terminal_15": {
+    "height": 19,
+    "pixelRatio": 1,
+    "width": 19,
+    "x": 57,
+    "y": 210
+  },
   "fire_station_11": {
     "height": 17,
     "pixelRatio": 1,

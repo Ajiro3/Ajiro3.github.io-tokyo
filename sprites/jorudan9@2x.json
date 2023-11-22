@@ -1806,9 +1806,9 @@
         "y": 42
     },
   "grave_yard": {
-    "height": 21,
+    "height": 15,
     "pixelRatio": 1,
-    "width": 21,
+    "width": 15,
     "x": 277,
     "y": 0
   }
